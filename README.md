@@ -10,3 +10,10 @@ Problem Statement : To predict price using various parameters
 
 # Flow of Project
 
+1. bhk
+2. sqft
+3. location
+4. bath
+
+
+
